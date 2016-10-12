@@ -1,0 +1,14 @@
+html, body {
+    margin:0;
+    padding: 0;
+}
+
+.map, #chartdiv {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.jvectormap-zoomin, .jvectormap-zoomout {
+    /*display: none*/
+}
