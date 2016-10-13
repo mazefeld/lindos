@@ -8,6 +8,7 @@
 <!--    <script src="lib/jquery/dist/jquery.js"></script>-->
     <script src="http://jvectormap.com/js/jquery-1.8.2.min.js"></script>
     <script src="js/jvector.dev.js"></script>
+    <script src="js/jvector-lindos.js"></script>
 
     <script src="assets/data/jvectormap-world-mill.js"></script>
     <script src="http://jvectormap.com/js/jquery-jvectormap-de-merc.js"></script>
